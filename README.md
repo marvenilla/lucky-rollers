@@ -1,5 +1,5 @@
-# Lucky Roller
-This repository houses "Lucky Roller", an interactive two-player dice game. This project is part of "The Complete JavaScript Course 2024: From Zero to Expert!" taught by Jonas Schmedtmann on Udemy. The game is designed to teach DOM manipulation, event handling, and fundamental game development using JavaScript.
+# Lucky Rollers
+This repository houses "Lucky Rollers", an interactive two-player dice game. This project is inspired by the "Pig Game", part of the JavaScript Course 2024 taught by Jonas Schmedtmann on Udemy. The game is designed to teach DOM manipulation, event handling, and fundamental game development using JavaScript.
 ## Table of Contents
 * Introduction
 * Technologies Used
@@ -8,14 +8,14 @@ This repository houses "Lucky Roller", an interactive two-player dice game. This
 * Features
 * Credits
 ### Introduction
-Lucky Roller is a web-based dice game where players take turns rolling a dice to accumulate points with the goal of reaching or surpassing a score of 100. Players can roll multiple times per turn, but risk losing all temporary gains if they roll a 1. The game showcases dynamic interactions with the DOM and responsive design.
+Lucky Rollers is a web-based dice game where players take turns rolling a dice to accumulate points with the goal of reaching or surpassing a score of 100. Players can roll multiple times per turn, but risk losing all temporary gains if they roll a 1. The game showcases dynamic interactions with the DOM and responsive design.
 ### Technologies Used
 * HTML
 * CSS
 * JavaScript
 ### Setup
 1. To get this game up and running on your local machine, follow these steps:
-2.. git clone https://github.com/marvenilla/lucky-roller.git
+2. git clone https://github.com/marvenilla/lucky-roller.git
 3. cd lucky-roller
 4. open index.html
 ### Game Rules
